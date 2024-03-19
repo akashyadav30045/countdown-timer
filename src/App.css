@@ -13,6 +13,41 @@
   }
 }
 
+.skeleton{
+  border: #61dafb;
+  border-radius: 20px;
+  background: green;
+
+}
+.full{
+  background: lightgreen;
+  height: 100%;
+}
+.Minute{
+  margin: 20px;
+  border-radius: 20px;
+  
+}
+.button{
+  margin: 20px;
+  cursor: pointer;
+}
+.second{
+  margin: 20px;
+}
+.second3{
+  display: flex;
+  font-size: 40px;
+  justify-content: center;
+  align-items: center;
+}
+.pause{
+  background-color: red;
+  text-align: center;
+  margin: 20px;
+  cursor: pointer;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
